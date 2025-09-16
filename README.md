@@ -1,6 +1,6 @@
 # 🔐 Decodificador de Criptografia Digital (Cyberpunk Theme)
 
-> Projeto desenvolvido como **exercício da DIO** — estilo cyberpunk, com visual neon e lógica algorítmica para decodificar sequências numéricas em texto legível.
+> Projeto desenvolvido como **Desafio da OneBitCode** — estilo cyberpunk, com visual neon e lógica algorítmica para decodificar sequências numéricas em texto legível.
 
 ---
 
