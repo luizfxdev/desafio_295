@@ -51,18 +51,27 @@ cd decodificador-criptografia
 ## 💡 Exemplos de Uso
 
 Entrada: ``85121215``
+
 Resultado: ``HELLO``
+
 Explicação: ``8→H, 5→E, 12→L, 12→L, 15→O``
+
 ### 🏆 Pontuação: 100.300 pontos (exemplo ilustrativo)
 
 Entrada: ``231518124``
+
 Resultado: ``WORLD``
+
 Explicação: ``23→W, 15→O, 18→R, 12→L, 4→D``
+
 ### 🏆 Pontuação: 100.300 pontos (exemplo ilustrativo)
 
 Entrada: ``1221926624522``
+
 Resultado: ``LUIZFXEV (exemplo demonstrativo)``
+
 Explicação: ``12→L, 21→U, 9→I, 26→Z, 6→F, 24→X, 5→E, 22→V``
+
 ### 🏆 Pontuação: variável conforme complexidade
 
 Observação: o sistema mostra todas as combinações válidas e destaca a que obteve a melhor pontuação segundo as regras.
