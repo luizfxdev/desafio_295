@@ -7,7 +7,7 @@
 ## ✨ Descrição
 Um sistema interativo que converte sequências numéricas em palavras usando o mapeamento A=1, B=2, …, Z=26. O projeto usa um algoritmo de **backtracking recursivo** com otimizações de programação dinâmica para encontrar todas as combinações válidas e escolher a melhor decodificação com base em um sistema de pontuação inteligente.
 
-**Tecnologias:** HTML5 / CSS3 / JavaScript  
+**Tecnologias:** **HTML5 / CSS3 / JavaScript**  
 **Tema visual:** Inspirado no universo Cyberpunk (neon, vidro fosco, animações).
 
 ---
