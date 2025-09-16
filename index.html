@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Decodificador de Criptografia Digital</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Vídeo de fundo - substitua pelo seu arquivo .mp4 -->
+    <video id="background-video" autoplay muted loop>
+      <source src="assets/background.mp4" type="video/mp4" />
+      Seu navegador não suporta vídeos HTML5.
+    </video>
+
+    <div class="container">
+      <h1 class="title">Decodificador de Criptografia Digital</h1>
+      <p class="subtitle">Decodifique mensagens enigmáticas em formato ancestral</p>
+
+      <!-- Input para entrada de dados -->
+      <div class="input-section">
+        <label for="encrypted-input" class="input-label">Mensagem Criptografada:</label>
+        <input
+          type="text"
+          id="encrypted-input"
+          class="encrypted-input"
+          placeholder="Digite a sequência numérica (ex: 81121215)"
+          tabindex="1"
+        />
+      </div>
+
+      <!-- Área dos botões -->
+      <div class="buttons-section">
+        <button class="action-btn" id="decode-btn" style="--clr: #fc0fc0" tabindex="2">
+          <span>DECIFRAR</span>
+          <i></i>
+        </button>
+        <button class="action-btn" id="return-btn" style="--clr: #fc0fc0" tabindex="3">
+          <span>RETORNAR</span>
+          <i></i>
+        </button>
+      </div>
+
+      <!-- Seção de resultado -->
+      <div class="result-section" id="result-section">
+        <h3 class="result-title">Resultado da Decodificação</h3>
+        <div class="result-content" id="result-content">
+          <!-- O resultado será inserido aqui pelo JavaScript -->
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
