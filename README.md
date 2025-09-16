@@ -144,6 +144,10 @@ Abra um Pull Request.
 
 Este projeto está sob a Licença MIT. Veja o arquivo LICENSE para os termos completos.
 
+<br/>
+<br/>
+<br/>
+
 ## 🧑🏾‍💻 Autor: [Luizfxdev](https://www.linkedin.com/in/luizfxdev)
 
 <br/>
